@@ -1,0 +1,7 @@
+# R junk
+.Rproj.user/
+.Rhistory
+.RDataTmp
+.DS_Store
+.RData
+rsconnect/
